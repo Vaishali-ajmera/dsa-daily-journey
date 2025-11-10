@@ -1,4 +1,3 @@
-````markdown
 # 🧩 Stack Implementation in Python
 
 There are **3 main ways** to implement a stack in Python.  
